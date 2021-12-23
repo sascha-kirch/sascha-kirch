@@ -6,6 +6,7 @@ I am a hardware and software engineer.
 
 - 🔭 I’m currently working on adversarial domain adaptation for RGBD data
 - 👯 I’m open to collaborate on interesting new topics to meet new people and learn new things!
+- :v: I hope my repos are usefull to you and would be happy for any constructive feedback and suggestion to further improve
 
 <!--
 **SaKi1309/SaKi1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
