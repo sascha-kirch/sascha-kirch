@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Sascha and I am a PhD Student working in machine learning. 
+I am a hardware and software engineer.
+
+
+- 🔭 I’m currently working on adversarial domain adaptation for RGBD data
+- 👯 I’m open to collaborate on interesting new topics to meet new people and learn new things!
+
 <!--
 **SaKi1309/SaKi1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
