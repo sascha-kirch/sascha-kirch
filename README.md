@@ -8,6 +8,8 @@ I am a hardware and software engineer.
 - 👯 I’m open to collaborate on interesting new topics to meet new people and learn new things!
 - :v: I hope my repos are usefull to you and would be happy for any constructive feedback and suggestion to further improve
 
+![](https://komarev.com/ghpvc/?username=saki1309&color=yellow) since 04.01.2022
+
 <!--
 **SaKi1309/SaKi1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
