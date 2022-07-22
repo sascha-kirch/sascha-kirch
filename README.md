@@ -1,26 +1,13 @@
 ### Hi there 👋
 
-My name is Sascha and I am a PhD Student working in machine learning. 
+My name is Sascha and I am a PhD Student working in the field of deeplearning. 
 I am a hardware and software engineer.
 
 
-- 🔭 I’m currently working on adversarial domain adaptation for RGBD data
+- 🔭 I’m currently working on generative multi-modal deeplearning for depth estimation of scenes and have been working adversarial domain adaptation for RGBD data before
 - 👯 I’m open to collaborate on interesting new topics to meet new people and learn new things!
 - :v: I hope my repos are usefull to you and would be happy for any constructive feedback and suggestion to further improve
 
+To fin out more about me check out my website: https://sascha-kirch.github.io/ 
+
 ![](https://komarev.com/ghpvc/?username=saki1309&color=yellow) since 04.01.2022
-
-<!--
-**SaKi1309/SaKi1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
