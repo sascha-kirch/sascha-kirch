@@ -8,6 +8,6 @@ I am a hardware and software engineer.
 - 👯 I’m open to collaborate on interesting new topics to meet new people and learn new things!
 - :v: I hope my repos are usefull to you and would be happy for any constructive feedback and suggestion to further improve
 
-To fin out more about me check out my website: https://sascha-kirch.github.io/ 
+To find out more about me check out my website: https://sascha-kirch.github.io/ 
 
 ![](https://komarev.com/ghpvc/?username=saki1309&color=yellow) since 04.01.2022
