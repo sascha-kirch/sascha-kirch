@@ -2,7 +2,7 @@
 
 My name is Sascha and I am a PhD Student working in the field of deeplearning. 
 I am a hardware and software engineer.
-
+<img src="https://github.com/sascha-kirch/sascha-kirch.github.io/blob/main/docs/assets/images/saschas.png" width="800" />
 
 - 🔭 I’m currently working on generative multi-modal deeplearning for depth estimation of scenes and have been working adversarial domain adaptation for RGBD data before
 - 👯 I’m open to collaborate on interesting new topics to meet new people and learn new things!
