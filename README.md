@@ -11,3 +11,6 @@ I am a hardware and software engineer.
 To find out more about me check out my website: https://sascha-kirch.github.io/ 
 
 ![](https://komarev.com/ghpvc/?username=saki1309&color=yellow) since 04.01.2022
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=sascha-kirch/Communication_Modulation,sascha-kirch/ML_Notebooks,sascha-kirch/DeepSaki&type=Date)](https://star-history.com/#sascha-kirch/Communication_Modulation&sascha-kirch/ML_Notebooks&sascha-kirch/DeepSaki&Date)
