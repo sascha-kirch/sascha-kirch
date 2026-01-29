@@ -1,60 +1,82 @@
-# Hi, I'm Sascha — AI/ML engineer bridging research and production systems
+# Hi, I'm Sascha 👋
 
-> Multi-modal perception, 3D reconstruction, and generative deep learning — from IEEE publications to production deployment.
 
-![Multi-Modal Fusion](https://img.shields.io/badge/Multi--Modal_Fusion-blue)
-![Foundation Models](https://img.shields.io/badge/Foundation_Models-blue)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-blue)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-blue)
-![Vision-Language Models](https://img.shields.io/badge/Vision--Language_Models-blue)
-![Transformer Architectures](https://img.shields.io/badge/Transformer_Architectures-blue)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-blue)
-![Flow Matching](https://img.shields.io/badge/Flow_Matching-blue)
-![State Space Models](https://img.shields.io/badge/State_Space_Models-blue)
-![GANs](https://img.shields.io/badge/GANs-blue)
-![VAEs](https://img.shields.io/badge/VAEs-blue)
-![Object Detection](https://img.shields.io/badge/Object_Detection-blue)
-![3D Reconstruction](https://img.shields.io/badge/3D_Reconstruction-blue)
-![LiDAR](https://img.shields.io/badge/LiDAR-green)
-![Radar Sensors](https://img.shields.io/badge/Radar_Sensors-green)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-green)
-![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-green)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-6B7280?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-6B7280?style=flat-square)
+![3D Reconstruction](https://img.shields.io/badge/-3D_Reconstruction-6B7280?style=flat-square)
+![3D Gaussian Splatting](https://img.shields.io/badge/-3D_Gaussian_Splatting-6B7280?style=flat-square)
+![Multi-Modal Fusion](https://img.shields.io/badge/-Multi--Modal_Fusion-6B7280?style=flat-square)
+![Diffusion Models](https://img.shields.io/badge/-Diffusion_Models-6B7280?style=flat-square)
+![State Space Models](https://img.shields.io/badge/-State_Space_Models-6B7280?style=flat-square)
+
+> Multi-sensor fusion, 3D reconstruction, and generative AI — from research papers to production systems.
 
 <p align="center">
-<img src="assets/images/saschas.png" width="800" />
+<img src="assets/images/saschas.png" width="500" />
 </p>
 
-I build AI systems that fuse multi-sensor data (LiDAR, radar, cameras, GPS, IMUs) into robust 3D understanding—optimized for production deployment under real-time constraints.
+## Projects
 
-My work spans **production-scale perception systems**, **3D reconstruction pipelines**, and **generative modeling** with **diffusion** and **flow-matching techniques**. I bridge classical computer vision with modern deep learning, working across object detection, segmentation, vision-language models, and multi-modal fusion.
+### Published Research
 
-**Published researcher** in IEEE journals on diffusion models and state space models. **Technical thought leader** with 24+ articles on foundation models, attention optimization, and deep learning (read by thousands of engineers). **BEO Expert** (Bosch Expert Organization) providing cross-divisional AI consulting.
+- 🔋 **[SambaMixer](https://github.com/sascha-kirch/samba-mixer)** - State space models (Mamba) for Li-ion battery health prediction
+- 🌈 **[RGB-D-Fusion](https://github.com/sascha-kirch/rgb-d-fusion)** - Image-conditioned depth diffusion for humanoid subjects
+- 🎨 **[VoloGAN](https://github.com/sascha-kirch/VoloGAN)** - Adversarial domain adaptation for synthetic depth data
 
-Before specializing in AI, I built FPGA-based test instrumentation and designed radar electronics—a hardware foundation that shapes how I think about latency, memory bandwidth, and real-world constraints.
+### Tools & Frameworks
 
-I don't just run models; I architect them. I **optimize foundation models** for production deployment, adapt them for specific sensor configurations, and squeeze performance through quantization, profiling, and algorithmic refinements. I lead teams, make architecture decisions, and translate cutting-edge research into systems that ship.
+- ✨ **[splaty](https://github.com/sascha-kirch/splaty)** - Educational 3D Gaussian Splatting renderer in pure Python/PyTorch
+- 🧪 **[DeepSaki](https://github.com/sascha-kirch/DeepSaki)** - TensorFlow/Keras add-on with custom layers, losses, and hardware connectivity
+- 🗒️ **[ML_Notebooks](https://github.com/sascha-kirch/ML_Notebooks)** - Machine learning experiments and explorations
 
-## 🔍 What you'll find here
-- **Published research implementations**: SambaMixer (Mamba state space models for battery health), RGB-D-Fusion (diffusion models for depth estimation), VoloGAN (GAN-based domain adaptation)
-- **Deep learning framework**: DeepSaki—my TensorFlow/Keras toolkit for rapid prototyping and experimentation with custom layers, losses, and architectures
-- **Dev environment automation**: dotfiles (Neovim, tmux, shell configs) and linux-forgeup (lightweight system bootstrap tool)
-- **ML experiments & notebooks**: explorations of generative models, foundation model fine-tuning, and computer vision techniques
-- **Personal website & portfolio**: Jekyll-based static site showcasing projects and technical background
+### Dev Environment
 
-Most production work happens behind closed doors—but you can explore my thinking here:
-- 📄 [LinkedIn](https://www.linkedin.com/in/sascha-kirch) — technical leadership, BEO Expert consulting, IEEE-HKN presidency
-- 📝 [Medium @SaschaKirch](https://medium.com/@SaschaKirch) — 24+ technical deep-dives (FlashAttention, Mamba, foundation models)
-- 🌐 [Portfolio](https://sascha-kirch.github.io) — project showcase, publications, professional background
+- ⚙️ **[dotfiles](https://github.com/sascha-kirch/dotfiles)** - Personal dotfiles and utilities (Neovim, tmux, shell configs)
+- 🔧 **[linux-forgeup](https://github.com/sascha-kirch/linux-forgeup)** - Lightweight setup and bootstrap tool for Debian/Ubuntu-based systems
+
+### Hardware & Embedded Projects (From the old days)
+
+- 🌦️ **[MeteoPi](https://github.com/sascha-kirch/MeteoPi)** - ESP32-based weather station with database and web interface
+- 🌱 **[AquaPi](https://github.com/sascha-kirch/AquaPi)** - Raspberry Pi + Arduino plant watering system with database and web interface
+- 📡 **[Communication_Modulation](https://github.com/sascha-kirch/Communication_Modulation)** - Interactive exploration of QAM, PSK, ASK, and BPSK modulation techniques
+- 🔎 **[Bit_Error_Tester](https://github.com/sascha-kirch/Bit_Error_Tester)** - FPGA-based bit error rate tester with PRBS generator
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/sascha-kirch)
+
+## Featured Blog Series
+
+- **[Building a 3D Gaussian Splatting Renderer from Scratch](https://medium.com/@SaschaKirch/list/building-a-3d-gaussian-splatting-renderer-from-scratch-b4b2d38bbccb)** - Hands-on 3DGS implementation
+- **[FlashAttention from First Principles](https://medium.com/@SaschaKirch/list/flashattention-from-first-principles-17edc3a49345)** - Understanding attention optimization
+- **[Mamba: State Space Models for Images, Videos & Time-Series](https://medium.com/@SaschaKirch/list/mamba-state-space-models-for-images-videos-timeseries-861ae0ad08fb)** - Deep dive into Mamba architecture and applications
+- **[NumPy Like a Pro: Arrays & Performance](https://medium.com/@SaschaKirch/list/numpy-like-a-pro-a-deep-dive-into-arrays-and-performance-f68bc294d9c3)** - Performance optimization techniques
+- **[Code & Coffee with Sascha](https://medium.com/@SaschaKirch/list/code-coffee-with-sascha-b19b2d737c84)** - Technical discussions and insights
+- **[Sascha's Paper Club](https://medium.com/@SaschaKirch/list/saschas-paper-club-89c7847da8e2)** - Research paper breakdowns
+
+> [!Tip]
+> For friend links to all my articles, check out [my website's blog collection](https://sascha-kirch.github.io/blog_friend_links.html).
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Sascha_Kirch-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sascha-kirch)
+[![Medium](https://img.shields.io/badge/-SaschaKirch-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@SaschaKirch)
+[![Portfolio](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logoColor=white)](https://sascha-kirch.github.io)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sascha-kirch)
 
 ---
 
-If you care about squeezing every drop of performance from models and turning multi-sensor fusion into production reality, let's connect.
+### What I'm Doing
 
----
-
+- **Building autonomous driving perception** - Multi-sensor fusion systems at Bosch
+- **Finishing a PhD** - Multi-modal generative deep learning
+- **Collaborating on research** - Universidad Politécnica de Madrid on 3D reconstruction and novel view synthesis and Volograms
+- **Writing technical deep-dives** - 25+ articles on attention mechanisms, state space models, and foundation architectures
+- **Active in IEEE** - Former IEEE-HKN Nu Alpha president in Spain, growing the community
+- **Hardware background** - FPGA and radar electronics experience shapes how I optimize models for real-world deployment
